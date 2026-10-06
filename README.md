@@ -2,10 +2,10 @@ Netflix Analiza Danych – Raport Power BI
 
 
 
-Projekt zrealizowany na potrzeby uczelniane. Głównym celem była analiza całego katalogu treści platformy  od rozpoczęcia działalności serwisu.
+Projekt wykonany samodzielnie od przekształcenia danych do interaktywnego dashboardu. Głównym celem była analiza całego katalogu treści platformy  i jej rozwój w czasie.
 
 
- Co zawiera projekt?
+ Co zawiera projekt:
 
  
 Modelowanie danych: Relacyjna struktura danych zoptymalizowana pod kątem analizy trendów na przestrzeni lat oraz wyliczania miar w DAX.
