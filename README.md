@@ -33,3 +33,42 @@ Dedykowany design: Spójna oprawa wizualna i motyw kolorystyczny nawiązujący d
 
 
 
+
+
+
+
+
+
+
+
+<img width="1844" height="1035" alt="image" src="https://github.com/user-attachments/assets/b59de29f-26ab-4d9f-bae9-b859c68b1d13" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="1839" height="1041" alt="image" src="https://github.com/user-attachments/assets/13670828-3113-4883-b17e-f5993472cf8e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1835" height="1036" alt="image" src="https://github.com/user-attachments/assets/72561f8f-2ca3-472b-a77a-2c4b68e32e92" />
+
+
+
