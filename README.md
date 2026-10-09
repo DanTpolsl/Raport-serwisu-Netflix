@@ -2,7 +2,7 @@ Netflix Analiza Danych – Raport Power BI
 
 
 
-Projekt wykonany samodzielnie od przekształcenia danych do interaktywnego dashboardu. Głównym celem była analiza całego katalogu treści platformy  i jej rozwój w czasie.
+Projekt wykonany samodzielnie od przekształcenia danych do interaktywnego dashboardu, wszystko w narzędziu PowerBI. Głównym celem była analiza całego katalogu treści platformy  i jej rozwój w czasie.
 
 
  Co zawiera projekt:
